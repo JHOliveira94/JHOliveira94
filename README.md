@@ -1,6 +1,8 @@
 <h1 align="center">Oiê 🤓, sou José Henrique, mas pode me chamar de Zé!</h1>
 <h3 align="center">Cientista de Dados em formação. Educador experiente como Professor de Matemática.</h3>
 
+- 👨‍🏫↔️📈 Estou focado em minha transição de carreira, desenvolvendo projetos em prol da minha aprendizagem.
+
 - 🌱 Atualmente, aprendendo e aprimorando minhas habilidades em **Python, Estatística, Storytelling.**
 
 - 💬 Fico feliz em conversar sobre **a área de dados e ensino-aprendizagem.**
