@@ -1,15 +1,7 @@
-<h1 align="center">Oiê 🤓, sou José Henrique, mas pode me chamar de Zé!</h1>
-<h3 align="center">Cientista de Dados em formação. Educador experiente como Professor de Matemática.</h3>
+<h1 align="center">Olá, sou José Henrique, mas pode me chamar de Zé!</h1>
+<h3 align="center">Engenheiro de Dados em formação. Educador experiente como Professor de Matemática.</h3>
 
-- 👨‍🏫↔️📈 Estou focado em minha transição de carreira, desenvolvendo projetos em prol da minha aprendizagem.
-
-- 🌱 Atualmente, aprendendo e aprimorando minhas habilidades em **Python, Estatística, Storytelling.**
-
-- 💬 Fico feliz em conversar sobre **a área de dados e ensino-aprendizagem.**
-
-- 🧠 Aprendo muito observando a experiência de outras pessoas. **Pode contar sobre sua trajetória em dados?**
-
-- 📄 Encontrará mais sobre minhas experiências profissionais em [www.linkedin.com/in/jholiveira94](www.linkedin.com/in/jholiveira94)
+Em transição para Engenharia de Dados, com sólida base em matemática e lógica. Em mais de 10 anos como professor, desenvolvi pensamento analítico, capacidade de resolver problemas complexos e facilidade em comunicar ideias técnicas. Pronto para atuar como júnior, trazendo visão estruturada e habilidade em aprender e aplicar tecnologias de dados.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
